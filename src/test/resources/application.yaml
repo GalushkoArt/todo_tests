@@ -1,0 +1,8 @@
+base.url:
+  rest: http://localhost:8080
+  ws: ws://localhost:8080
+
+auth:
+  admin:
+    username: admin
+    password: admin
